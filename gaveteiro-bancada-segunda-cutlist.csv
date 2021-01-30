@@ -1,0 +1,12 @@
+Material,Length,Width,Qty,Label
+10.0,430.0,688.0,1.0,caixa_traseira
+16.0,140.3,214.7,3.0,gaveta_superior_frente
+10.0,192.7,408.0,3.0,gaveta_superior_fundo
+10.0,130.3,408.0,3.0,gaveta_superior_lateral_esquerda
+10.0,130.3,408.0,3.0,gaveta_superior_lateral_direita
+10.0,130.3,172.7,3.0,gaveta_superior_traseira
+16.0,214.7,283.7,3.0,gaveta_inferior_frente
+16.0,192.7,408.0,3.0,gaveta_inferior_fundo
+10.0,267.7,408.0,3,gaveta_inferior_lateral_esquerda
+10.0,267.7,408.0,3,gaveta_inferior_lateral_direita
+10.0,172.7,267.7,3,gaveta_inferior_traseira
